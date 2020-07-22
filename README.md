@@ -2,7 +2,7 @@
 
 ### npm i && npm start
 
-![Upload file](https://github.com/cheersmas/upload-animation/blob/reducer/fileupload.gif)
+![Upload file](https://github.com/cheersmas/upload-animation/blob/master/fileupload.gif)
 
 #### Icons:
 
